@@ -39,7 +39,7 @@
 
 1. 【推荐】React组件中如果组件是`pure component`，那应该继承React.PureComponent
 
-1. 【推荐】变量定义优先使用`const`
+1. 【推荐】优先使用`const`
 
 1. 【推荐】组件尽量保证share，所以共享的组件不需要再单独创建一个share文件夹放置
  
